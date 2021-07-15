@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "customDrawerComponent",
+    "slug": "customDrawerComponent",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "customDrawerComponent"
+}
